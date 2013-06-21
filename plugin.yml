@@ -1,0 +1,12 @@
+ name: autoCommands
+ version: 1.0
+ description: Send a command every x minutes!
+ author: NXTGUY
+ 
+ main: me.nxtguy.Main
+ database: false
+ 
+ commands:
+   autocommands:
+     description: Base command for the autoCommand plugin.
+     aliases: [autocommand, autocmd, acommand]
