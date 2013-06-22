@@ -1,9 +1,9 @@
  name: autoCommands
  version: 1.0
- description: Send a command every x minutes!
+ description: Run commands automatically every x minutes!
  author: NXTGUY
  
- main: me.nxtguy.Main
+ main: com.nxtcraft.Main
  database: false
  
  commands:

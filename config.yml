@@ -1,0 +1,10 @@
+#autoCommands Configuration File
+updateCheck: true
+Task:
+  enable: false
+  #How long should we wait between executing the commands. (in seconds)
+  time: 30
+  #What commands to execute from the console. **Do not include the '/'**
+  commands:
+    - 'say Task Executed!'
+    - 'say Looks like autoCommands is working!'
